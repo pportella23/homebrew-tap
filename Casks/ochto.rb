@@ -1,6 +1,6 @@
 cask "ochto" do
-  version "1.1.1"
-  sha256 "006e08c61b1f1d5bb2d1570f406f83936165dee4d32575b5c61d2bfb89197474"
+  version "1.2.0"
+  sha256 "5555bb099758e0009c017a89b92ea5a2f4479dfb945ff0ef0032ef71f38b0afa"
 
   url "https://github.com/pportella23/ochto-releases/releases/download/v#{version}/Ochto-arm64.dmg"
   name "Ochto"
